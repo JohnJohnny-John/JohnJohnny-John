@@ -38,20 +38,7 @@ I thrive on **problem-solving, learning new technologies, and building applicati
 ---
 
 ### 💻 Projects & Contributions
-**1. [Project Name]**  
-_Description_: Build a concise description highlighting the problem, solution, and impact.  
-**Tech Stack**: Python, React, Flask  
-**Repo Link**: [GitHub Link]
 
-**2. [Project Name]**  
-_Description_: Example – A mobile app to optimize delivery routes in real-time.  
-**Tech Stack**: Flutter, Firebase  
-**Repo Link**: [GitHub Link]
-
-**3. [Project Name]**  
-_Description_: Example – Web application for supply chain inventory management.  
-**Tech Stack**: React, Node.js, MongoDB  
-**Repo Link**: [GitHub Link]
 
 > *Tip:* Add badges for technologies used (shields.io) for a visually appealing touch.
 
