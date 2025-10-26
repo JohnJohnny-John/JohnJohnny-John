@@ -52,9 +52,9 @@ I thrive on **problem-solving, learning new technologies, and building applicati
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/daniel-ayuko-9450b622/])  
-- Email: [your.email@example.com](mailto:daniel.ayuko@proton.me)  
-- Portfolio: [yourportfolio.com]([https://sites.google.com/view/danielayuko])
+- LinkedIn: ([https://www.linkedin.com/in/daniel-ayuko-9450b622/])  
+- Email: (mailto:daniel.ayuko@proton.me)  
+- Portfolio:([https://sites.google.com/view/danielayuko])
 
 ---
 
