@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Daniel Ayuko]</h1>
+<h1 align="center">Hi 👋, I'm Daniel Ayuko</h1>
 <h3 align="center">ALX Software Engineering Learner | Aspiring Mobile & Web Developer | Solution-Oriented Innovator</h3>
 
 ---
