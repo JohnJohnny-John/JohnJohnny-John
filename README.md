@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
-I am a learner of the **ALX Software Engineering Program**, passionate about building solutions that **improve lives and streamline processes**.  
+I am a **Software Engineer** who is passionate about building solutions that **improve lives and streamline processes**.  
 My aim is to create **mobility and supply chain solutions** that make movement and business operations more efficient.  
 
 I thrive on **problem-solving, learning new technologies, and building applications** that have a real-world impact.
