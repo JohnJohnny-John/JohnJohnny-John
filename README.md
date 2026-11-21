@@ -37,24 +37,13 @@ I thrive on **problem-solving, learning new technologies, and building applicati
 
 ---
 
-### 💻 Projects & Contributions
-
-
-> *Tip:* Add badges for technologies used (shields.io) for a visually appealing touch.
-
----
-
-### 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_border=true&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/daniel-ayuko-9450b622/)  
 - [Email](mailto:daniel.ayuko@proton.me)  
-- [Portfolio](https://sites.google.com/view/danielayuko)
+- [Portfolio](https://daniel-ayukoportfolio.vercel.app/)
 
 ---
 
